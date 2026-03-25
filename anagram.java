@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.io.*;
 import java.util.*;
 
@@ -95,3 +96,14 @@ public static void main(String[] args){
   }
 
   
+=======
+//comment 1
+//comment 2
+//comment 3
+//comment 4
+//comment 5
+//comment 6
+//comment 7
+//comment 8
+//comment 9
+>>>>>>> 66910a5e03a076d58db764f1b4c3951d7f63ffb8
